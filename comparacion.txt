@@ -11,5 +11,10 @@ linea10
 
 linea12
 
+<<<<<<< HEAD
 linea14
 
+=======
+linea14  modificada
+linea15
+>>>>>>> de5046e... Modificando linea 14 desde otra_rama
